@@ -1,0 +1,10 @@
+ Volume in drive F is New Volume
+ Volume Serial Number is AE28-10B0
+
+ Directory of F:\2CSDE77 Microservice Architecture and Programming\Practical1
+
+04-08-2021  14:56    <DIR>          .
+04-08-2021  14:56    <DIR>          ..
+04-08-2021  14:56                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  56,702,525,440 bytes free
